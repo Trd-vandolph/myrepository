@@ -15,7 +15,9 @@
  */
 
 get_header(); ?>
-
+	<div>
+               	<p>Hello, this is my new project</p>
+</div>
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
 		<?php if ( have_posts() ) : ?>
