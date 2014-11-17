@@ -16,7 +16,7 @@
 
 get_header(); ?>
 <div>
-               	<p>Hello, this is my new project</p>
+               	<p>Hello, this is my name, hello everybody!</p>
 </div>
 
 <div id="main-content" class="main-content">
