@@ -16,9 +16,12 @@
 
 get_header(); ?>
 	<div>
-               	<p>Hello, this is my new project</p>
-               	<p>Hello, this is my 2nd project</p>
+		<p>Hello, this is my new project</p>
+		<p>Hello, this is my 2nd project</p>
 	</div>
+	<p>
+		New Branch
+	</p>
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
 		<?php if ( have_posts() ) : ?>
